@@ -1,0 +1,7 @@
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 02\PointOfSale\bin\Debug\PointOfSale.exe.config
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 02\PointOfSale\bin\Debug\PointOfSale.exe
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 02\PointOfSale\bin\Debug\PointOfSale.pdb
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 02\PointOfSale\obj\Debug\PointOfSale.csproj.AssemblyReference.cache
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 02\PointOfSale\obj\Debug\PointOfSale.csproj.CoreCompileInputs.cache
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 02\PointOfSale\obj\Debug\PointOfSale.exe
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 02\PointOfSale\obj\Debug\PointOfSale.pdb
